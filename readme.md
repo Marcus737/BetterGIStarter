@@ -1,0 +1,2 @@
+# BetterGI启动器
+一键更新并启动BetterGI，免去手动更新的麻烦
